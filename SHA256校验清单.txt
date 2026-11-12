@@ -1,0 +1,10 @@
+# SHA256 校验清单 —— 仅覆盖会被执行的脚本（文档不参与校验）
+# 用法：双击「校验文件完整性.bat」，启动器也会在启动前自动校验
+# 注意：清单文件自身的 SHA256 需从发布页获取核对，包内不可自证
+be729f5220d3a07564ee33e1ca6cf2c31b72f4467c7a9675e0a1a44250773414  bootstrap.ps1
+18f3b14e45dd08931c9596ba0f2051a6548aff12549f841e86d3e019b95b88f2  convert_engine.ps1
+adf5c1d8caff05f59214db622aaacbfe046c2d1bba00f0adfc9d16350dae4993  dismiss_dialogs.ps1
+81d8b455bcb914b52f65d480c495244931913d53647e05cb49c53684513944cc  wp_converter.py
+b74e5fa2f7bbd1ee96d12438ea4934c27905712e67d8f9cd6a312ec446fbb930  verify_hashes.ps1
+2c81b025819fc205238851d884187fd4d742ababc289a9521aef25398b8fed9c  启动WP互相转换工具.bat
+831529b745e6ef03f6b3cbd7314bcb35fa058334a1bf94ba0aeb39f144258294  校验文件完整性.bat
